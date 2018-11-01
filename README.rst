@@ -17,6 +17,10 @@ Ideas
 * Financial features:
 
   * Weigh Pclass, Ticket, Fair and Cabin somehow to proxy income?
+  
+* Physical features:
+
+  * Estimate height, body mass, boday fat, etc. from age, ethnicity, financial state, etc. The former might help predict who could hold out for longer on the water.
 
 * Imbue training data:
 
