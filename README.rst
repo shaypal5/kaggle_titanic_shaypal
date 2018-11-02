@@ -21,6 +21,7 @@ Ideas
 * Physical features:
 
   * Estimate height, body mass, boday fat, etc. from age, ethnicity, financial state, etc. The former might help predict who could hold out for longer on the water.
+  * Find passenger pictures to use in this estimation?
 
 * Imbue training data:
 
